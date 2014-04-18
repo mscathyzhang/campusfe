@@ -1,17 +1,28 @@
-##第一课，HTML基础
-###用时
+## 第一课，HTML基础
+
+###目标
+* 熟悉HTML的基本概念，发展历史，各版本的区别，发展的趋势
+* 精通HTML的语法，能够熟练地书写HTML代码
+* 对语义化有比较正确的认知，在编码中能够有意识地编写语义化的HTML，知道语义化的目的
+
+### 用时
+* 零基础者：一周
 * 初学者：3天-4天
 * 有一点基础：2天
 * 已经有较多经验：1天
 * 有丰富的前端经验：抽空挑没看过的看吧
-###阅读材料
-* 什么是HTML，HTML的基本语法
-	* [What is HTML](http://www.w3.org/community/webed/wiki/HTML/Training/What_is_HTML%3F)
-	* [HTML Tag syntax](http://www.w3.org/community/webed/wiki/HTML/Training/Tag_syntax)
-	* [HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html#syntax)
-	* [HTML Document](http://www.w3.org/community/webed/wiki/HTML/Training/HTML_Document)
 
-> 是不是发现为什么资料都是英文，还都是w3.org的，why？浏览器厂商可都是根据他们来实现浏览器的，这里是最权威、精准、全面的对于各种知识的解释。面试时面试官问你如何学习前端的，你很屌地说我直接看w3c的各种规范和文章，何等境界！
+### 什么是HTML，HTML的基本语法
+* [What is HTML](http://www.w3.org/community/webed/wiki/HTML/Training/What_is_HTML%3F)
+* [HTML Tag syntax](http://www.w3.org/community/webed/wiki/HTML/Training/Tag_syntax)
+* [HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html#syntax)
+* [HTML Document](http://www.w3.org/community/webed/wiki/HTML/Training/HTML_Document)
+
+### 第一个小练习
+
+半小时以内，不带样式，用HTML编写一份自己丰富的简历，做完以后再继续看下面的内容
+
+### 继续阅读一些进阶的知识
 
 * DTD是什么，了解不同版本HTML的历史和区别
 	* [HTML 元素和有效的 DTD](http://www.w3school.com.cn/tags/html_ref_dtd.asp)
@@ -29,7 +40,20 @@
 	* [HTML标签的语义化概念、意义和实践](http://www.5icool.org/a/201006/537.html)
 	* [语义化的HTML结构到底有什么好处？](http://www.css88.com/archives/1668)
 	* [再谈语义化](http://ued.ctrip.com/blog/?p=2735)
-###实践
-* [参考HTML编码规范](https://github.com/ecomfe/spec/blob/master/html-and-css-code-style.md)，不带样式，用HTML编写一份自己丰富的简历，尽可能地使用更多不同种类的标签，当然必须具备合理的语义
+
+### 第二个小练习
+
+重新建立一个HTML文件，重新用HTML编写一份自己的简历，然后和之前做的第一个练习比较一下，看看你学到了什么。
+
+### 企业里的HTML编码规范
+* [百度前端HTML编码规范](https://github.com/ecomfe/spec/blob/master/html-and-css-code-style.md) CSS部分的先不用阅读
+
+### 第三个小练习
+
+* 按照编码规范的要求，Review你自己的代码
 * 阅读 [百度教育首页](http://jiaoyu.baidu.com/mp/index) 的HTML源码，分析其代码写得好或是不好的地方
+
 ###分享
+
+* 你还有在互联网中看到哪些有关上面相关知识点的精彩文章，在你的博客中也按类别做一些链接分享吧
+* 在你的博客中，总结一下你有什么新的收获
